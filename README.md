@@ -1,4 +1,4 @@
-# ☀️ Clima-na-mao
+# ☀️ Clima na Mão
 
 Esse é o clima na mão!
 Website desenvolvido para consulta de tempo utilizando a OpenWeather api.
