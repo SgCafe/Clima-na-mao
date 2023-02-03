@@ -56,10 +56,3 @@ cityInput.addEventListener("keyup", (e) => {
     showWeatherData(city);
   }
 });
-
-// cityInput.addEventListener("keyup" (e) => {
-//   if (e.key === "Enter") {
-//     e.preventDefault();
-//     document.getElementById("city-input").click();
-//   }
-// });
