@@ -23,7 +23,7 @@ Here are the technologies used in this project.
 
 ### 1 - When you access, you will see the Home page <3
 
-![README](https://user-images.githubusercontent.com/105067158/215528121-498307fd-9878-45c9-aded-217ff4493aee.png)
+
 
 ## Authors
 
