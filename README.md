@@ -23,7 +23,7 @@ Here are the technologies used in this project.
 
 ### 1 - When you access, you will see the Home page <3
 
-
+![clima-na-mao](https://user-images.githubusercontent.com/105067158/216482545-539cdc87-d070-4352-bd65-596edf112d40.png)
 
 ## Authors
 
